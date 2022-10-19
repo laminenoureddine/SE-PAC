@@ -1,0 +1,122 @@
+IMAGE_DLLCHARACTERISTICS_DYNAMIC_BASE (DLLs_charac & 0x0040)
+IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY (DLLs_charac & 0x0080)
+IMAGE_DLLCHARACTERISTICS_NX_COMPAT (DLLs_charac & 0x0100)
+IMAGE_DLLCHARACTERISTICS_NO_ISOLATION (DLLs_charac & 0x0200)
+IMAGE_DLLCHARACTERISTICS_NO_SEH (DLLs_charac & 0x0400)
+IMAGE_DLLCHARACTERISTICS_NO_BIND (DLLs_charac & 0x0800)
+IMAGE_DLLCHARACTERISTICS_WDM_DRIVER (DLLs_charac & 0x2000)
+IMAGE_DLLCHARACTERISTICS_TERMINAL_SERVER_AWARE (DLLs_charac & 0x8000)
+PE Checksum
+Image Base Relative Address
+Code Base Relative Address
+OS Major version
+OS Minor version
+Image Size
+Code Size
+Headers Size
+Initialized Data Size
+Uninitialized Data Size
+Stack Reserve Size
+Stack Commit Size
+Section Alignment
+Number of standard sections
+Number of non-standard sections
+Number of non-printible sections the PE holds
+Number of repetitive sections the PE holds, like .text with .text1 as does some packer like Armadillo
+Ratio between the number of standard sections and the total number of sections
+Number of Executable sections
+Number of Writable sections
+Number of Writable-Executable sections
+Number of Readable-Executable sections
+Number of Readable-Writable sections
+Number of Writable-Readable-Executable sections
+Has a code section that is not Executable
+Has an Executable section that is not a code section
+Does not have any code section
+Entry Point is not in a code section
+Entry Point is not in a standard section
+Entry Point is not in an Executable section
+Ratio between raw data size and virtual size for the section containing the Entry Point. NOTE: -1 if virtual size is 0
+Number of sections having their raw data size equal to 0 (size on disk)
+Number of sections having their virtual size greater than their raw data size
+Maximum ratio of raw data size to virtual size among all the sections
+Minimum ratio of raw data size to virtual size among all the sections
+The address pointing to raw data on disk is not a multiple of the file alignement
+Entropy of the code section. NOTE: -1 if section does not exist
+Entropy of the data section. NOTE: -1 if section does not exist
+Entropy of the resource section. NOTE: -1 if section does not exist
+Entropy of the PE header
+Entropy of the entire PE file
+Entropy of the section with the Entry Point. Note: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+64 bytes following the Entry Point, each byte being 1 feature. NOTE: -1 if Entry Point is not inside the PE file
+Number of imported DLLs. NOTE: -1 if the Import Table is missing
+Number of functions imported in the import table directory (IDT). NOTE: -1 if the IDT is missing
+Number of suspicious functions imported. NOTE: -1 if the IDT is missing
+Ratio between number of suspicious functions imported and total number of functions imported. NOTE: -1 if the IDT is missing or empty
+Number of addresses (corresponds to functions) found in the import address table (IAT). NOTE: -1 if the IAT is missing
+Is the debug directory present
+Number of resources the PE holds. NOTE: -1 if the resource directory is missing
+

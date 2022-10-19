@@ -1,0 +1,13 @@
+#Three things to modify each time you switch from realistic to synthetic dataset:
+
+- The name of the container in the file build.sh
+- The min samples to consider, from 10 to 1
+- best distance eps tunned
+- The testing and training dir paths each time
+- The shuffle_index
+- The range of the date: from (4,13) to (4,11)
+- The prefix of the date: 2017 to 2019 or the opposite
+- The tile of the figure saved
+- The figure name of the figure titile being saved
+- The filename of resuls saved
+- The dates in the figure for the training set, period of training, test ...etc.
