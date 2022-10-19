@@ -1,0 +1,27 @@
+[section]:
+for the realistic dataset:
+best_eps = 0.0675
+best_min_sample = 3
+
+for the synthetic dataset:
+best_eps = 0.0825
+best_min_sample = 3
+
+
+[section+imp_func]:
+for the realistic dataset:
+best_eps =
+best_min_sample =
+
+for the synthetic dataset:
+best_eps =
+best_min_sample =
+
+[section+entropy+imp_func]:
+for the realistic dataset:
+best_eps =
+best_min_sample =
+
+for the synthetic dataset:
+best_eps =
+best_min_sample =

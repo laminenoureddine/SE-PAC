@@ -1,0 +1,67 @@
+2021-06-07 19:48:07: Loaded 628 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_Armadillo
+2021-06-07 19:48:07: Loaded 633 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_ASPack
+2021-06-07 19:48:08: Loaded 653 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_YodaCryptor
+2021-06-07 19:48:08: Loaded 125 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_CustomAmberPacker
+2021-06-07 19:48:08: Loaded 22 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_CustomOrigamiPacker
+2021-06-07 19:48:08: Loaded 277 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_CustomPackerSimple1
+2021-06-07 19:48:08: Loaded 648 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_CustomPEPacker1
+2021-06-07 19:48:08: Loaded 655 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_CustomPePacker2
+2021-06-07 19:48:08: Loaded 635 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_CustomPetoyPacker
+2021-06-07 19:48:08: Loaded 651 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_CustomSilentPacker
+2021-06-07 19:48:08: Loaded 651 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_CustomTheArkPacker
+2021-06-07 19:48:09: Loaded 547 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_CustomUchihaPacker
+2021-06-07 19:48:09: Loaded 655 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_CustomXorPacker
+2021-06-07 19:48:09: Loaded 668 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_eXPressor
+2021-06-07 19:48:09: Loaded 597 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_ezip
+2021-06-07 19:48:09: Loaded 630 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_FSG
+2021-06-07 19:48:10: Loaded 634 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_MEW
+2021-06-07 19:48:10: Loaded 593 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_mPress
+2021-06-07 19:48:10: Loaded 617 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_NeoLite
+2021-06-07 19:48:10: Loaded 640 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_Packman
+2021-06-07 19:48:10: Loaded 670 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_PECompact
+2021-06-07 19:48:11: Loaded 621 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_PELock
+2021-06-07 19:48:11: Loaded 666 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_PENinja
+2021-06-07 19:48:11: Loaded 625 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_Petite
+2021-06-07 19:48:11: Loaded 645 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_RLPack
+2021-06-07 19:48:11: Loaded 595 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_telock
+2021-06-07 19:48:11: Loaded 612 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_Themida
+2021-06-07 19:48:12: Loaded 1158 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_UPX
+2021-06-07 19:48:12: Loaded 694 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_WinRAR
+2021-06-07 19:48:12: Loaded 664 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_UPack
+2021-06-07 19:48:12: Loaded 689 features from file /home/lnouredd/Desktop/PhD/git/datasets/mixed_dataset/pe_dates_featfiles_packers_families/training_set_2/consensus_WinZip
+2021-06-07 19:48:12: Loaded source files:
+2021-06-07 19:48:12: Armadillo : 628
+2021-06-07 19:48:12: ASPack : 633
+2021-06-07 19:48:12: YodaCryptor : 653
+2021-06-07 19:48:12: CustomAmberPacker : 125
+2021-06-07 19:48:12: CustomOrigamiPacker : 22
+2021-06-07 19:48:12: CustomPackerSimple1 : 277
+2021-06-07 19:48:12: CustomPEPacker1 : 648
+2021-06-07 19:48:12: CustomPePacker2 : 655
+2021-06-07 19:48:12: CustomPetoyPacker : 635
+2021-06-07 19:48:12: CustomSilentPacker : 651
+2021-06-07 19:48:12: CustomTheArkPacker : 651
+2021-06-07 19:48:12: CustomUchihaPacker : 547
+2021-06-07 19:48:12: CustomXorPacker : 655
+2021-06-07 19:48:12: eXPressor : 668
+2021-06-07 19:48:12: ezip : 597
+2021-06-07 19:48:12: FSG : 630
+2021-06-07 19:48:12: MEW : 634
+2021-06-07 19:48:12: mPress : 593
+2021-06-07 19:48:12: NeoLite : 617
+2021-06-07 19:48:12: Packman : 640
+2021-06-07 19:48:12: PECompact : 670
+2021-06-07 19:48:12: PELock : 621
+2021-06-07 19:48:12: PENinja : 666
+2021-06-07 19:48:12: Petite : 625
+2021-06-07 19:48:12: RLPack : 645
+2021-06-07 19:48:12: telock : 595
+2021-06-07 19:48:12: Themida : 612
+2021-06-07 19:48:12: UPX : 1158
+2021-06-07 19:48:12: WinRAR : 694
+2021-06-07 19:48:12: UPack : 664
+2021-06-07 19:48:12: WinZip : 689
+2021-06-07 19:48:12: Families that will be used: ['Armadillo', 'ASPack', 'YodaCryptor', 'CustomAmberPacker', 'CustomOrigamiPacker', 'CustomPackerSimple1', 'CustomPEPacker1', 'CustomPePacker2', 'CustomPetoyPacker', 'CustomSilentPacker', 'CustomTheArkPacker', 'CustomUchihaPacker', 'CustomXorPacker', 'eXPressor', 'ezip', 'FSG', 'MEW', 'mPress', 'NeoLite', 'Packman', 'PECompact', 'PELock', 'PENinja', 'Petite', 'RLPack', 'telock', 'Themida', 'UPX', 'WinRAR', 'UPack', 'WinZip']
+2021-06-07 19:48:13: Using 121 features: ['IMAGE_DLLCHARACTERISTICS_DYNAMIC_BASE', 'IMAGE_DLLCHARACTERISTICS_FORCE_INTEGRITY', 'IMAGE_DLLCHARACTERISTICS_NX_COMPAT', 'IMAGE_DLLCHARACTERISTICS_NO_ISOLATION', 'IMAGE_DLLCHARACTERISTICS_NO_SEH', 'IMAGE_DLLCHARACTERISTICS_NO_BIND', 'IMAGE_DLLCHARACTERISTICS_WDM_DRIVER', 'IMAGE_DLLCHARACTERISTICS_TERMINAL_SERVER_AWARE', 'Checksum', 'ImageBase', 'CodeBase', 'Major_0S_Version', 'Minor_0S_Version', 'SizeOfImage', 'SizeOfCode', 'SizeOfHeaders', 'SizeOfInitializedData', 'SizeOfUninitializedData', 'SizeOfStackReserve', 'SizeOfStackCommit', 'SectionAlignment', 'Number_Standards_Sections', 'Number_NonStandards_Sections', 'Number_NoPrintable_Sections', 'Number_RepetitiveSections', 'Ratio_StandardsSection_AllSections', 'Number_Executable_Sections', 'Number_Writable_Sections', 'Number_Writable&Executable_Sections', 'Number_Readable&Executable_Sections', 'Number_Readable&Writable_Sections', 'Number_Writable&Readable&Executable_Sections', 'CodeSectionNotExecutable', 'ExecutableSectionNotCodeSection', 'NoCodeSection', 'No_OriginalEntryPoint_In_CodeSection', 'No_OriginalEntryPoint_In_StandardSection', 'No_OriginalEntryPoint_In_ExecutableSection', 'Ratio_OriginalEntryPoint_VirtualSize&PhysicalSize', 'Number_Section_Null_PhysicalSize', 'Number_Sections_VirtualSize_Bigger_PhysicalSize', 'Ratio_Maximum_VirtualSize&PhysicalSize', 'Ratio_Minimum_VirtualSize&PhysicalSize', 'PhisicalAdress_NotConformingWith_FileAlignement', 'Entropy_Code_Section', 'Entropy_Data_Section', 'Entropy_Resource_Section', 'Entropy_PE_Header', 'Entropy_PE_File', 'Entropy_OriginalEntryPoint_Section', 'Byte1_After_EntryPoint', 'Byte2_After_EntryPoint', 'Byte3_After_EntryPoint', 'Byte4_After_EntryPoint', 'Byte5_After_EntryPoint', 'Byte6_After_EntryPoint', 'Byte7_After_EntryPoint', 'Byte8_After_EntryPoint', 'Byte9_After_EntryPoint', 'Byte10_After_EntryPoint', 'Byte11_After_EntryPoint', 'Byte12_After_EntryPoint', 'Byte13_After_EntryPoint', 'Byte14_After_EntryPoint', 'Byte15_After_EntryPoint', 'Byte16_After_EntryPoint', 'Byte17_After_EntryPoint', 'Byte18_After_EntryPoint', 'Byte19_After_EntryPoint', 'Byte20_After_EntryPoint', 'Byte21_After_EntryPoint', 'Byte22_After_EntryPoint', 'Byte23_After_EntryPoint', 'Byte24_After_EntryPoint', 'Byte25_After_EntryPoint', 'Byte26_After_EntryPoint', 'Byte27_After_EntryPoint', 'Byte28_After_EntryPoint', 'Byte29_After_EntryPoint', 'Byte30_After_EntryPoint', 'Byte31_After_EntryPoint', 'Byte32_After_EntryPoint', 'Byte33_After_EntryPoint', 'Byte34_After_EntryPoint', 'Byte35_After_EntryPoint', 'Byte36_After_EntryPoint', 'Byte37_After_EntryPoint', 'Byte38_After_EntryPoint', 'Byte39_After_EntryPoint', 'Byte40_After_EntryPoint', 'Byte41_After_EntryPoint', 'Byte42_After_EntryPoint', 'Byte43_After_EntryPoint', 'Byte44_After_EntryPoint', 'Byte45_After_EntryPoint', 'Byte46_After_EntryPoint', 'Byte47_After_EntryPoint', 'Byte48_After_EntryPoint', 'Byte49_After_EntryPoint', 'Byte50_After_EntryPoint', 'Byte51_After_EntryPoint', 'Byte52_After_EntryPoint', 'Byte53_After_EntryPoint', 'Byte54_After_EntryPoint', 'Byte55_After_EntryPoint', 'Byte56_After_EntryPoint', 'Byte57_After_EntryPoint', 'Byte58_After_EntryPoint', 'Byte59_After_EntryPoint', 'Byte60_After_EntryPoint', 'Byte61_After_EntryPoint', 'Byte62_After_EntryPoint', 'Byte63_After_EntryPoint', 'Byte64_After_EntryPoint', 'Number_DLLs_Imported', 'Number_Functions_Imported_In_ImportDirectoryTable', 'Number_MaliciousAPIs_Imported', 'Ratio_MaliciousAPIsImported&AllFunctionsImported', 'Number_Functions_Imported_In_ImportAdressTable', 'No_DebugDirectory', 'Number_Resources']
+2021-06-07 19:48:13: Found 6 feature categories: ['header', 'section', 'entropy', 'ep64', 'imp_func', 'other']
+2021-06-07 19:48:13: Feature categories used: ['section']
