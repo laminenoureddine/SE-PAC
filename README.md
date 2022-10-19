@@ -1,1 +1,7 @@
 # SE-PAC
+
+SE-PAC is a Self-Evolving PAcker Classifier software that identifies the class of the packer used to pack a (malicious) Win32 executable file. It has the the ability to identify both known and unknown packer classes, as well as self-updating its packer knowledge with the predicted packer classes.
+
+SE-PAC relies on incremental clustering in a semi-supervised fashion. It is composed of an offline phase and an online phase. In the offline phase, a set of features is extracted from a collection of packed binaries provided with their ground truth labels, then a density-based clustering algorithm (DBSCAN) is used to group similar packers together into clusters with respect to a distance measure.  In this step, the similarity threshold is tuned in order to form the clusters that fit the best with the set of labels provided. In the online phase, SE-PAC reproduces the same operations of feature extraction and distance calculation, then uses a customized version of the incremental clustering algorithm DBSCAN in order to classify incoming packed samples, either in known packer classes by extending existing clusters or new packer classes by forming new clusters, or temporarily leave them unclassified (see notion of noise of DBSCAN). 
+
+The clusters formed after each update serve as a baseline for SE-PAC to self-evolve. Finally, SE-PAC includes a post-clustering selection strategy that extracts a set of relevant samples from the clusters found in order to reduce the cost of the post-clustering packer processing.
